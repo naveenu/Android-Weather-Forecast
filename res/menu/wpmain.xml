@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.trackthebird.weatherforecast.WPMainActivity" >
+
+    <item
+        android:id="@+id/action_current_weather"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_currently"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_minutely_weathers"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_minutely"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_hourly_weathers"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_hourly"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_daily_weathers"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_daily"
+        app:showAsAction="never"/>   
+     <item
+        android:id="@+id/action_refresh_weathers"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_refresh"
+        app:showAsAction="never"/>         
+</menu>
+
+    

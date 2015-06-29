@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+	    <color name="white">#ffffff</color>
+	    <color name="black">#000000</color>
+	    <color name="green">#23cf34</color>
+	    <color name="sky_blue">#87CEEB</color>    
+	    <color name="light_white">#F6FFFD</color>
+		<color name="medium_green">#FF007300</color>
+	    <color name="orange">#FF8000</color>
+	    <color name="lite_blue">#4E78A0</color>
+	    <color name="blue">#0000FF</color>
+	    <color name="grey">#FF454545</color>
+	    <color name="grey_medium">#FFB2B2B2</color>
+	    <color name="pink">#FF0064</color>
+		<color name="light_pink">#FFD700D7</color>
+	    <color name="my_colour">#FF0064</color>
+	    <color name="opaque_blue">#00F</color>
+	    <color name="transparent_green">#7700FF00</color>
+	    <color name="fg_violet">#FF3328C7</color>
+	    <color name="bg_light_gray">#FFC7C2A3</color>
+	    <color name="text_light_color">#FF5A6125</color>
+		<color name="dark_light_color">#FFA25100</color>
+	    <color name="Burnt_Orange_MD">#FFF44900</color>
+		<color name="navy_blue">#FF244967</color>
+		<color name="christmas_green_BRT">#FF00602F</color>
+		<color name="facebook_blue">#FF0040FF</color>
+		<color name="brown">#FF601407</color>
+		<color name="light_yellow">#FFFFFF81</color>
+		<color name="light_yellow1">#FFFFFFCC</color>
+		<color name="pale_yellow">#FF99CC33</color>
+		<color name="ash_gray">#FFB2BEB5</color>
+		<color name="title_background">#FF4784BD</color>
+    </resources>

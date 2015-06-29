@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Configuration forecast URL -->
+    <string name="weather_fore_cast_url">https://api.forecast.io/forecast/</string>
+    <!-- Application default title/name -->
+    <string name="app_name">Weather Forecast</string>
+    <!-- Weather preference -->
+    <string name="action_settings_minutely">Minutely Weather Forecast</string>
+    <string name="action_settings_hourly">Hourly Weather Forecast</string>
+    <string name="action_settings_daily">Daily Weather Forecast</string>
+    <string name="action_settings_currently">Current Weather</string>
+	<string name="action_settings_refresh">Refresh</string>
+
+    <!-- Weather related items -->
+    <string name="last_updated_time">Date &amp; Time</string>
+    <string name="summary">Summary</string>
+    <string name="nearestStormDistance">Nearest storm distance</string>
+    <string name="temperature">Temperature</string>
+    <string name="dewPoint">Dew Point</string>
+    <string name="humidity">Humidity</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="ozone">Ozone</string>
+    
+    <!-- Popup related strings -->
+  	<string name="forecast_weather_popup_title">Weather</string>  
+    <string name="please_wait">Please wait. Getting weather details</string>  
+    <string name="stop">Stop</string>  
+    <string name="close">Close</string>
+    		
+    <!-- Validation strings -->
+    <string name="unknow_error">UnKnown error. Please try again</string>
+    <string name="internet_not_available">"Sorry. Internet is NOT available"</string>
+    <string name="minuely_forecast_not_available">"Sorry. Minutely forecast is not available"</string>
+    
+</resources>
